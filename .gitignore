@@ -1,0 +1,12 @@
+# Videos (user provides)
+*.mp4
+
+# Generated outputs (recreated by running the notebooks)
+outputs/
+_segments_tmp/
+
+# Python/Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.egg-info/
