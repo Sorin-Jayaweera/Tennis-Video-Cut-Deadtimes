@@ -1,0 +1,6 @@
+These are all the functions I used to make a failed Kalman Filter tracking of the ball. 
+The main reason this sucks is that it want's measurements as somewhere with guassian like uncertainty
+BUT our detection scome as points that are highly spacially separated, so there isn't a good way to write that
+gaussian uncertainty. 
+You should just need the file path of a video, 
+and then run all the code in tennis_ball_kalman_tracker_with_extractor.ipynb
