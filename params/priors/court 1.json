@@ -1,0 +1,15 @@
+{
+  "name": "court 1",
+  "params": {
+    "court_xs": 0.1,
+    "court_ys": 0,
+    "court_inset": 8,
+    "air_xl": 115,
+    "air_xr": 193,
+    "air_yt": 38,
+    "air_yb": 58,
+    "air_sx": 37,
+    "air_sy": 40,
+    "pweight": 1
+  }
+}
